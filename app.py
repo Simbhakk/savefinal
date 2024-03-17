@@ -7,4 +7,4 @@ def hello_world():
    return 'GreyMatters_Bot'
 
 #Ex https://Greymattersbot:ghp_147bkkabcdefgh@github.com/Greymattersbot/Mogenius
-os.system("git clone https://github.com/Simbhakk/namerokpublic okk && cd okk && pip3 install -U -r requirements.txt && nohup python3 -m main &")
+os.system("git clone https://github.com/Simbhakk/lolpok okk && cd okk && pip3 install -U -r requirements.txt && nohup python3 -m main &")
