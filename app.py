@@ -17,4 +17,4 @@ def hello_world():
 </style>"""
 
 #Ex https://Greymattersbot:ghp_147bkkabcdefgh@github.com/Greymattersbot/Mogenius
-os.system("git clone https://github.com/Simbhakk/none okk && cd okk && pip3 install -U -r requirements.txt && nohup python3 main.py &")
+os.system("git clone https://github.com/Simbhakk/pmnone okk && cd okk && pip3 install -U -r requirements.txt && nohup python3 main.py &")
